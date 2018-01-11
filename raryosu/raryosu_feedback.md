@@ -152,7 +152,14 @@ IT関係の法知識が豊富な友人が一人欲しい。
 
 来月も一緒に頑張りましょう！
 
+## 李
+
+いつも通り、達成度すごいです。
+https://github.com/SHIBUYA-DESTROYERS/kotlin-koans-raryosu のcontributorsの人数をびっくりしました。笑
+入社前に一緒に頑張りましょう！
+
 # 2月
+
 
 ## フィードバックしてくれる人のお名前
 
